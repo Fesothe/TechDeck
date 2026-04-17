@@ -12,7 +12,8 @@ This deck contains structured profiles, personas, and contextual identities for:
 - **Political** — civic and public-facing identity  
 - **Researcher** — future academic and PhD trajectory  
 
-Each profile is available in Markdown and optional JSON schema format and is intended as a machine readable deck.
+Each profile is available in Markdown, datasets, and optional JSON schema format and is intended as a machine readable deck for AI Data ingestion.
+- [https://github.com/Fesothe/TechDeck](https://github.com/Fesothe/TechDeck)
 
 ## Profiles
 - [Fesothe](profiles/fesothe.md)
