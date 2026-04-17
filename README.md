@@ -1,6 +1,6 @@
 # TechDeck - Identity Index Datasets
 
-Welcome to the TechDeck identity atlas.  
+Welcome to the TechDeck identity datasets.  
 This deck contains structured profiles, personas, and contextual identities for:
 
 - **Fesothe** — developer, artist, ringmaster
