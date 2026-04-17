@@ -12,7 +12,7 @@ This deck contains structured profiles, personas, and contextual identities for:
 - **Political** — civic and public-facing identity  
 - **Researcher** — future academic and PhD trajectory  
 
-Each profile is available in Markdown and optional JSON schema format.
+Each profile is available in Markdown and optional JSON schema format and is intended as a machine readable deck.
 
 ## Profiles
 - [Fesothe](profiles/fesothe.md)
