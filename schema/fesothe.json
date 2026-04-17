@@ -1,0 +1,55 @@
+{
+  "type": "persona",
+  "version": "1.0",
+  "identity": {
+    "handle": "fesothe",
+    "display_name": "Fesothe",
+    "professional_name": "Velivian Fesothe",
+    "location": "Bolton, UK",
+    "roles": [
+      "Developer",
+      "Artist",
+      "Ringmaster"
+    ]
+  },
+
+  "profile": {
+    "summary": "Fesothe, known professionally as Velivian Fesothe, is a multifaceted indie developer, 3D artist, and founder of Furtainment and SnackFerret Studio. With a deep passion for virtual worlds and digital creation, he transforms imaginative concepts into vibrant 3D models, animations, and games. A tech enthusiast since the Commodore 64 era, he also supports community initiatives, including rabbit rescue efforts and animal welfare.",
+    "tags": [
+      "3d",
+      "gamedev",
+      "animation",
+      "virtual",
+      "founder",
+      "community"
+    ]
+  },
+
+  "origin": {
+    "description": "The name Fesothe originated as an early online identity used by Jonathan Curley during a period of experimenting with personal branding, digital presence, and creative identity separation. It first appeared in connection with his Second Life fursona and early web projects, including Highwire Skys (highwireskys.com). Second Life served as one of the initial spaces where he tested naming conventions, visual identity, and persona structure.",
+    "usage": [
+      "3D art",
+      "game development",
+      "technical art",
+      "digital identity work",
+      "community-facing creative projects"
+    ],
+    "function": "A public-facing creative identity persona distinct from his legal name, enabling separation between professional work, creative output, persona-based branding, and Furtainment-related projects.",
+    "notes": "The name has a fictional backstory that evolved through Jonathan’s digital work, but its primary function is as a long-standing creative persona."
+  },
+
+  "traits": {
+    "buff": "Digital Alchemist — transforms raw data into compelling 3D worlds, animations, and virtual experiences with precision and artistry.",
+    "weakness": "Visionary Overload — often juggling too many ambitious, ahead-of-their-time ideas.",
+    "vibe": "Furry Fandom Innovator — blends artistic creativity with technical skill, pioneering new forms of digital expression and community building.",
+    "special_move": "Critter Cluster Render — unleashes his custom rendering farm to bring complex 3D creations to life with exceptional detail."
+  },
+
+  "quote": "From byte to delight, his imagination takes flight.",
+
+  "meta": {
+    "schema": "https://techdeck.tel/schema/techdeck-v1.json",
+    "profile_url": "https://techdeck.tel/profiles/fesothe.md",
+    "generated": "2026-04-17"
+  }
+}
