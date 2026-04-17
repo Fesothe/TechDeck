@@ -2,8 +2,6 @@
 
 [![Techdeck.](https://cdn.furrys.org/github/fesothe/images/techdeck.png)](https://techdeck.life/profiles/fesothe)
 
-Here you go — **pure Markdown**, clean, structured, and ready to drop straight into a repo or `/md/` identity layer.
-
 ---
 
 # **Fesothe**  
@@ -51,6 +49,4 @@ If you want, I can also generate:
 - a **README.md** version  
 - a **JSON** version  
 - a **schema.org Person** version  
-- a **TechDeck‑style template** you can reuse for other personas  
-
-Just tell me what you want next.
+- a **TechDeck‑style template** you can reuse for other personas
