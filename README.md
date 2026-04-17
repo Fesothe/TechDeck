@@ -43,10 +43,3 @@ Unleashes the full power of his custom rendering farm to bring complex 3D creati
 > *"From byte to delight, his imagination takes flight."*
 
 ---
-
-If you want, I can also generate:
-
-- a **README.md** version  
-- a **JSON** version  
-- a **schema.org Person** version  
-- a **TechDeck‑style template** you can reuse for other personas
