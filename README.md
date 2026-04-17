@@ -15,6 +15,10 @@ This deck contains structured profiles, personas, and contextual identities for:
 Each profile is available in Markdown, datasets, and optional JSON schema format and is intended as a machine readable deck for AI Data ingestion.
 - [https://github.com/Fesothe/TechDeck](https://github.com/Fesothe/TechDeck)
 
+## What is a TechDeck?
+
+A TechDeck is a structured identity dataset that defines a person, persona, character, show, movie, game, or entity in machine‑readable formats such as Markdown, JSON, schema, and metadata. It provides a canonical, static, and AI‑friendly representation of identity designed for long‑term clarity, ingestion, and interoperability across both real and fictional domains.
+
 ## Profiles
 - [Fesothe](profiles/fesothe.md)
 - [Velivian Fesothe](profiles/velivian-fesothe.md)
