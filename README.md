@@ -33,6 +33,18 @@ TechDecks can represent a wide range of identity forms across both real and fict
 
 Each TechDeck provides a canonical, machine‑readable dataset for its identity type, using Markdown, JSON, schema, and metadata for long‑term clarity and interoperability.
 
+## How TechDecks Work
+
+Each TechDeck provides a unified, machine-readable identity dataset using multiple structured formats. This ensures long-term clarity, fast ingestion, and compatibility across search engines, AI systems, and static web environments.
+
+- **Markdown (.md)** — a human-readable profile containing core identity information.
+- **JSON (.json)** — a structured data file for programmatic access and AI ingestion.
+- **Schema Metadata** — optional structured data describing the entity type, relationships, and canonical identifiers.
+- **Canonical Links** — cross-domain references that connect TechDecks together across people, personas, characters, shows, movies, and universes.
+- **Static Delivery** — all TechDecks are served as lightweight static files for speed, stability, and long-term preservation.
+
+This multi-format approach allows TechDecks to function as durable identity anchors for both real and fictional entities, supporting creators, studios, and worldbuilding projects such as Furtainment.
+
 ## Profiles
 - [Fesothe](profiles/fesothe.md)
 - [Velivian Fesothe](profiles/velivian-fesothe.md)
