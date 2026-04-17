@@ -1,4 +1,4 @@
-# TechDeck — Identity Index
+# TechDeck - Identity Index
 
 Welcome to the TechDeck identity atlas.  
 This deck contains structured profiles, personas, and contextual identities for:
