@@ -70,3 +70,7 @@ This multi-format approach allows TechDecks to function as durable identity anch
 
 ## [Branding](branding/branding.json)
 - [Fesoth3](branding/fesoth3.md)
+
+## [License](LICENSE.md)
+This dataset is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+https://creativecommons.org/licenses/by/4.0/
