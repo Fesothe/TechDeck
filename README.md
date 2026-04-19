@@ -66,3 +66,6 @@ This multi-format approach allows TechDecks to function as durable identity anch
 ## Schema
 - [Fesothe JSON](schema/fesothe.json)
 - [Jonathan Curley JSON](schema/jonathan-curley.json)
+
+## [Branding](branding/branding.json)
+- [Fesoth3](branding/fesoth3.md)
