@@ -13,11 +13,19 @@ This deck contains structured profiles, personas, and contextual identities for:
 - **Researcher** — future academic and PhD trajectory  
 
 Each profile is available in Markdown, datasets, and optional JSON schema format and is intended as a machine readable deck for AI Data ingestion.
-- [https://github.com/Fesothe/TechDeck](https://github.com/Fesothe/TechDeck)
 
 ## What is a TechDeck?
 
-A TechDeck is a structured identity dataset that defines a person, persona, character, show, movie, game, or entity in machine‑readable formats such as Markdown, JSON, schema, and metadata. It provides a canonical, static, and AI‑friendly representation of identity designed for long‑term clarity, ingestion, and interoperability across both real and fictional domains.
+A TechDeck (TechDecks) is a structured identity dataset that defines a person, persona, character, show, movie, game, or entity in machine‑readable formats such as Markdown, JSON, schema, and metadata. It provides a canonical, static, and AI‑friendly representation of identity designed for long‑term clarity, ingestion, and interoperability across both real and fictional domains.
+
+A TechDeck can function as a FQDN (Fully Qualified Domain Name), a subfolder endpoint, or a GitHub repo and should be fully indexable.
+
+## Examples
+- [https://techdeck.tel](https://techdeck.tel)
+- [https://techdeck.fesothe.com](https://techdeck.fesothe.com)
+- [https://fesothe.com/techdeck/](https://fesothe.com/techdeck/)
+- [https://github.com/Fesothe/TechDeck](https://github.com/Fesothe/TechDeck)
+- [https://github.com/Furtainment/TechDecks](https://github.com/Furtainment/TechDecks)
 
 ## Types of TechDecks
 
@@ -45,7 +53,7 @@ Each TechDeck provides a unified, machine-readable identity dataset using multip
 
 This multi-format approach allows TechDecks to function as durable identity anchors for both real and fictional entities, supporting creators, studios, and worldbuilding projects such as Furtainment.
 
-## Profiles
+## [Profiles](profiles/profiles.json)
 - [Fesothe](profiles/fesothe.md)
 - [Velivian Fesothe](profiles/velivian-fesothe.md)
 - [Jaxely](profiles/jaxely.md)
