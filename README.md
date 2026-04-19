@@ -22,6 +22,7 @@ A TechDeck can function as a **FQDN** (Fully Qualified Domain Name), a **subfold
 
 ## Examples
 - [https://techdeck.tel](https://techdeck.tel)
+- [https://techdecks.tel](https://techdecks.tel)
 - [https://techdeck.fesothe.com](https://techdeck.fesothe.com)
 - [https://fesothe.com/techdeck/](https://fesothe.com/techdeck/)
 - [https://github.com/Fesothe/TechDeck](https://github.com/Fesothe/TechDeck)
