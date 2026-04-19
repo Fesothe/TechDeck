@@ -1,4 +1,4 @@
-# TechDeck Lore: fesoth3
+# TechDeck Branding Lore: fesoth3
 
 ## Core Motif
 The identity of **fesoth3** is built around the number **3**, a symbol that appears naturally and repeatedly in Jonathan’s personal and creative world. It is not an invented motif it is an observed one, emerging from real elements of his life, work, and visual identity.
