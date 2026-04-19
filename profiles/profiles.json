@@ -1,0 +1,62 @@
+{
+  "techdeck_version": "1.0",
+  "description": "Master index of all TechDeck identity profiles for the Fesothe / Jonathan Curley ecosystem.",
+  "profiles": [
+    {
+      "id": "jonathan-curley",
+      "name": "Jonathan Paul Curley",
+      "type": "person",
+      "personas": ["Fesothe", "Velivian Fesothe"],
+      "canonical_url": "https://techdeck.tel/profiles/jonathan-curley.md",
+      "repo_path": "profiles/jonathan-curley.md"
+    },
+    {
+      "id": "fesothe",
+      "name": "Velivian Fesothe",
+      "type": "persona",
+      "linked_to": "jonathan-curley",
+      "canonical_url": "https://techdeck.tel/profiles/fesothe.md",
+      "repo_path": "profiles/fesothe.md"
+    },
+    {
+      "id": "jaxely",
+      "name": "Jaxely",
+      "type": "persona",
+      "linked_to": "jonathan-curley",
+      "canonical_url": "https://techdeck.tel/profiles/jaxely.md",
+      "repo_path": "profiles/jaxely.md"
+    },
+    {
+      "id": "founder",
+      "name": "Founder Identity",
+      "type": "role",
+      "linked_to": "jonathan-curley",
+      "canonical_url": "https://techdeck.tel/profiles/founder.md",
+      "repo_path": "profiles/founder.md"
+    },
+    {
+      "id": "educator",
+      "name": "Educator Identity",
+      "type": "role",
+      "linked_to": "jonathan-curley",
+      "canonical_url": "https://techdeck.tel/profiles/educator.md",
+      "repo_path": "profiles/educator.md"
+    },
+    {
+      "id": "political",
+      "name": "Political Identity",
+      "type": "role",
+      "linked_to": "jonathan-curley",
+      "canonical_url": "https://techdeck.tel/profiles/political.md",
+      "repo_path": "profiles/political.md"
+    },
+    {
+      "id": "researcher",
+      "name": "Researcher Identity",
+      "type": "role",
+      "linked_to": "jonathan-curley",
+      "canonical_url": "https://techdeck.tel/profiles/researcher.md",
+      "repo_path": "profiles/researcher.md"
+    }
+  ]
+}
