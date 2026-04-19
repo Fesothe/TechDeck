@@ -1,1 +1,12 @@
-
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "TechDeck Identity Dataset License",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "creator": {
+    "@type": "Person",
+    "name": "Jonathan Curley",
+    "url": "https://www.jonathancurley.com"
+  },
+  "about": "Machine-readable license declaration for the TechDeck identity dataset."
+}
