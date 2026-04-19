@@ -19,6 +19,13 @@ Each profile is available in Markdown, datasets, and optional JSON schema format
 
 A TechDeck is a structured identity dataset that defines a person, persona, character, show, movie, game, or entity in machine‑readable formats such as Markdown, JSON, schema, and metadata. It provides a canonical, static, and AI‑friendly representation of identity designed for long‑term clarity, ingestion, and interoperability across both real and fictional domains.
 
+A TechDeck can function as a **FQDN** (Fully Qualified Domain Name) or as a **subfolder endpoint**, and should be fully indexable.
+
+## Examples
+- [https://techdeck.tel](https://techdeck.tel)
+- [https://techdeck.fesothe.com](https://techdeck.fesothe.com)
+- [https://fesothe.com/techdeck/](https://fesothe.com/techdeck/)
+
 ## Types of TechDecks
 
 TechDecks can represent a wide range of identity forms across both real and fictional domains. These include:
