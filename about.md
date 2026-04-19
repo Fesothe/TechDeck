@@ -11,12 +11,14 @@ A **TechDeck** is a structured identity dataset that defines a **person, persona
 
 It provides a **canonical, static, AI‑friendly representation of identity**, designed for long‑term clarity, ingestion, and interoperability across both real and fictional domains.
 
-A TechDeck can function as a **FQDN** (Fully Qualified Domain Name) or as a **subfolder endpoint**, and should be fully indexable.
+A TechDeck can function as a **FQDN** (Fully Qualified Domain Name), a **subfolder endpoint**, or a GitHub repo and should be fully indexable.
 
 ## Examples
-- https://techdeck.tel  
-- https://techdeck.fesothe.com  
-- https://fesothe.com/techdeck/  
+- [https://techdeck.tel](https://techdeck.tel)
+- [https://techdeck.fesothe.com](https://techdeck.fesothe.com)
+- [https://fesothe.com/techdeck/](https://fesothe.com/techdeck/)
+- [https://github.com/Fesothe/TechDeck](https://github.com/Fesothe/TechDeck)
+- [https://github.com/Furtainment/TechDecks](https://github.com/Furtainment/TechDecks)
 
 ## Types of TechDecks
 
