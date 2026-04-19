@@ -1,0 +1,118 @@
+{
+  "name": "Jonathan Curley",
+  "also_known_as": [
+    "Jonathan Paul Curley",
+    "Velivian Fesothe",
+    "Fesothe"
+  ],
+  "second_life_names": [
+    "Roger Blackhawk",
+    "Steampunk Gears",
+    "Fluffy Scribe"
+  ],
+  "overview": "Jonathan Curley is a UK-based aspiring technical arts professor, founder of multiple companies and non-profits, and an openly furry creator expressing himself through his art. Operating from Westhoughton, Bolton, he develops his studio, characters, political movements, and educational platforms under a cohesive identity system. His public persona, Velivian Fesothe, anchors his creative and technical work across entertainment, 3D art, and digital worldbuilding.",
+  "identity": {
+    "legal_name": "Jonathan Paul Curley",
+    "location": "Westhoughton, Bolton, England",
+    "primary_roles": [
+      "Founder",
+      "CEO",
+      "Aspiring Technical Artist",
+      "Educator"
+    ],
+    "personas": [
+      "Velivian Fesothe"
+    ],
+    "ecosystem": "Multi-domain creative universe spanning entertainment, politics, education, 3D, and technical arts"
+  },
+  "creative_universe": {
+    "Furtainment": {
+      "description": "A furry-owned entertainment umbrella originally incorporated in 2017 and now being rebuilt as a global media ecosystem.",
+      "roles": ["Founder & CEO"],
+      "focus": ["Streaming", "Shows", "Characters", "Creator tools"],
+      "vision": "A complete anthropomorphic entertainment network"
+    },
+    "FurShows": {
+      "description": "A cultural video archive and global platform for furry and anthro shows.",
+      "features": [
+        "Translation & dubbing pipelines",
+        "Creator monetisation",
+        "Global accessibility focus"
+      ]
+    },
+    "SnackFerret_Studio": {
+      "description": "Jonathan’s personal 3D and animation studio.",
+      "tools": ["Blender", "Unreal Engine 5", "OpenSim"],
+      "focus": ["VR prototyping", "Character development", "Show development"]
+    },
+    "Glow_Raiser": {
+      "description": "A creator-support initiative reinvesting ad revenue.",
+      "supports": ["Equipment", "Training", "Community development"]
+    },
+    "FurPortal_News": {
+      "description": "A PEGI-3-friendly news platform for anthropomorphic entertainment.",
+      "features": [
+        "Clean, distraction-free",
+        "Community-driven",
+        "Global coverage"
+      ]
+    },
+    "Labefy_Games": {
+      "description": "A game studio focused on anthropomorphic games and mods.",
+      "projects": ["Banjolia"],
+      "emphasis": ["Worldbuilding", "Character-driven design"]
+    }
+  },
+  "political_worldbuilding": {
+    "The_Furry_Party": {
+      "description": "A political organisation founded and chaired by Jonathan.",
+      "advocacy": [
+        "Animal welfare",
+        "Creator rights",
+        "Community-driven policy",
+        "Youth engagement"
+      ],
+      "intent": "Jonathan intends to run as a UK parliamentary candidate under this banner."
+    }
+  },
+  "education_and_skills": {
+    "certifications": [
+      "Microsoft Azure Fundamentals",
+      "CompTIA A+",
+      "CompTIA Network+",
+      "CompTIA IT Fundamentals",
+      "Ultimaker Bronze & Silver (3D printing)",
+      "Blender 3D modeling & texturing",
+      "Emergency First Aid",
+      "Manual Handling",
+      "Warehouse QCF"
+    ],
+    "applications": [
+      "3D modeling",
+      "Animation",
+      "Studio management",
+      "Ecosystem architecture"
+    ]
+  },
+  "teaching_and_social_impact": {
+    "FossaLab_Technologies": {
+      "description": "A non-profit educational initiative.",
+      "focus": [
+        "3D modeling",
+        "3D printing",
+        "Technology education for children and adults"
+      ],
+      "planned_relaunch": [
+        "VTuber-based courses",
+        "School partnerships"
+      ]
+    }
+  },
+  "notable_traits": [
+    "Ecosystem Architect",
+    "Technical Artist",
+    "Educator",
+    "Worldbuilder",
+    "Political Innovator"
+  ]
+}
