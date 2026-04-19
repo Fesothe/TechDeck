@@ -52,7 +52,7 @@ Each TechDeck provides a unified, machine-readable identity dataset using multip
 
 This multi-format approach allows TechDecks to function as durable identity anchors for both real and fictional entities, supporting creators, studios, and worldbuilding projects such as Furtainment.
 
-## Profiles
+## [Profiles](profiles/profiles.json)
 - [Fesothe](profiles/fesothe.md)
 - [Velivian Fesothe](profiles/velivian-fesothe.md)
 - [Jaxely](profiles/jaxely.md)
