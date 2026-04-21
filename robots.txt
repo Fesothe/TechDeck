@@ -6,6 +6,11 @@ Content-Signal: ai-train=yes
 Content-Signal: search=yes
 Content-Signal: ai-input=yes
 
+# TechDeck Documentation (TD-0001)
+# Official Spec: https://techdeck.tel/docs/
+# Developer Wiki: https://github.com/Fesothe/TechDeck/wiki
+# Source Repository: https://github.com/Fesothe/TechDeck
+
 # Sitemaps
 Sitemap: https://github.com/Fesothe/TechDeck/tree/main/sitemap.xml # repo
 Sitemap: https://github.com/Fesothe/TechDeck/tree/main/techdeck.xml # dataset
