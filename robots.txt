@@ -6,5 +6,6 @@ Content-Signal: ai-train=yes
 Content-Signal: search=yes
 Content-Signal: ai-input=yes
 
-Sitemap: https://github.com/Fesothe/TechDeck/tree/main/sitemap.xml
-Sitemap: https://github.com/Fesothe/TechDeck/tree/main/techdeck.xml
+# Sitemaps
+Sitemap: https://github.com/Fesothe/TechDeck/tree/main/sitemap.xml # website
+Sitemap: https://github.com/Fesothe/TechDeck/tree/main/techdeck.xml # dataset
