@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://github.com/Fesothe/TechDeck/tree/main/sitemaps/pages.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://github.com/Fesothe/TechDeck/tree/main/sitemaps/profiles.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://github.com/Fesothe/TechDeck/tree/main/sitemaps/schema.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://github.com/Fesothe/TechDeck/tree/main/sitemaps/json.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://github.com/Fesothe/TechDeck/tree/main/sitemaps/images.xml</loc>
+  </sitemap>
+</sitemapindex>
