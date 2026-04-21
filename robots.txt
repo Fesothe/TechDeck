@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# AI Content Usage Preferences (Content Signals)
+Content-Signal: ai-train=yes
+Content-Signal: search=yes
+Content-Signal: ai-input=yes
+
+Sitemap: https://techdeck.tel/sitemap.xml
+Sitemap: https://techdeck.tel/techdeck.xml
