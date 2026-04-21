@@ -7,5 +7,5 @@ Content-Signal: search=yes
 Content-Signal: ai-input=yes
 
 # Sitemaps
-Sitemap: https://github.com/Fesothe/TechDeck/tree/main/sitemap.xml # website
+Sitemap: https://github.com/Fesothe/TechDeck/tree/main/sitemap.xml # repo
 Sitemap: https://github.com/Fesothe/TechDeck/tree/main/techdeck.xml # dataset
